@@ -1,5 +1,5 @@
 import sys, os
-from skillshare import cloudscraper
+from skillshare import Skillshare
 from magic import cookie
 
 # or by class ID:
